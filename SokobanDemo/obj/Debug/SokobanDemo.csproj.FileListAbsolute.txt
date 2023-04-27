@@ -1,0 +1,25 @@
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\bin\Debug\SokobanDemo.exe.config
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\bin\Debug\SokobanDemo.exe
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\bin\Debug\SokobanDemo.pdb
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.csprojAssemblyReference.cache
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.Form1.resources
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.Properties.Resources.resources
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.csproj.GenerateResource.cache
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.csproj.CoreCompileInputs.cache
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.exe
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.pdb
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.startForm.resources
+C:\Users\GTQYQS\Desktop\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.instructions.resources
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\bin\Debug\SokobanDemo.exe.config
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\bin\Debug\SokobanDemo.exe
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\bin\Debug\SokobanDemo.pdb
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.Form1.resources
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.instructions.resources
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.Properties.Resources.resources
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.startForm.resources
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.exe
+\\Mac\Home\Downloads\high school projects\SokobanDemo\SokobanDemo\obj\Debug\SokobanDemo.pdb
