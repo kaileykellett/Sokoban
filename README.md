@@ -1,1 +1,2 @@
 # Sokoban
+A sokoban puzzle game I made for my Grade 11 Computer Science course. The purpose of the assignment was to learn more about stacks and queues (or abstract data types, though we didn't have the vocabulary for it yet) by making a simple game which included the functionality of an "undo" button. Other notable features of this assignment is the multiple linked Winforms, as well as the graphics implemented to give the game a theme. 
